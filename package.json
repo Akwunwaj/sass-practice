@@ -1,0 +1,23 @@
+{
+  "name": "sass-practice",
+  "version": "1.0.0",
+  "description": "Learning SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akwunwaj/sass-practice.git"
+  },
+  "keywords": [
+    "sass",
+    "css"
+  ],
+  "author": "Joey Akwunwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akwunwaj/sass-practice/issues"
+  },
+  "homepage": "https://github.com/Akwunwaj/sass-practice#readme"
+}
